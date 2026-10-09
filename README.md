@@ -65,10 +65,6 @@ The application is deployed and publicly accessible online:
 
 🔗 **Live Application URL:** [https://nexadigital-pk.vercel.app](https://nexadigital-pk.vercel.app)
 
-![Platform](https://img.shields.io/badge/PLATFORM-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/DESIGN-RESPONSIVE-7C3AED?style=for-the-badge)
-
 ---
 
 ## c. Core Features List
